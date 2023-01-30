@@ -4,7 +4,16 @@ For a library package "nimble init <name>" adds the skeleton needed for unit tes
 
 ### Installation
 
-        nimble install nimadtst
+This package is too small to clutter https://nimble.directory with it.
+To install it 
+
++ download the repository from https://github.com/wokibe/nimadtst
+
++ cd to its base directory 
+
++ and execute:
+
+        nimble install
 
 ### Usage
 
